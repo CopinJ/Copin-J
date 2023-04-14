@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Température Terrestre</b>
-  - [Data preprocessing, Data viz, Data analysis, ML, PowerBI](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Ranked LOL </b>
-  - [Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Amazon</b>
-  - [SQLite](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Projet Température Terrestre</b>
+  - [Data preprocessing, Data viz, Data analysis, ML, PowerBI](https://github.com/CopinJ/Projet-Temperature-Terrestre)
+- <b>Projet Ranked LOL </b>
+  - [Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI](https://github.com/CopinJ/Projet-Ranked-LOL)
+- <b>Projet Amazon SQLite</b>
+  - [SQLite](https://github.com/CopinJ/Projet-Amazon-SQLite)
 
 <h2>Compétences</h2>
 
