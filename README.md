@@ -32,6 +32,6 @@
 
 <h2> N'hésitez à me suivre sur le lien suivant : </h2>
 
-[linkedin] https://www.linkedin.com/in/copin-julien/
+[Linkedin] https://www.linkedin.com/in/copin-julien/
 
 <!--
