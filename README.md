@@ -11,27 +11,27 @@
 
 <h2>Compétences</h2>
 
-- [Python]
-- [SQL]
-- [Data visualisation]
-- [PowerBI]
-- [Tableau]
-- [Data Analysis]
-- [Machine Learning]
-- [Text Mining]
-- [Web Scraping]
-- [Data Quality]
+- Python
+- SQL
+- Data visualisation
+- PowerBI
+- Tableau
+- Data Analysis
+- Machine Learning
+- Text Mining
+- Web Scraping
+- Data Quality
 
 <h2> On me dit : </h2>
 
-- [Force de proposition]
-- [Pondéré]
-- [Assidu]
-- [Curieux]
-- [Bon en travail d'équipe]
+- Force de proposition
+- Pondéré
+- Assidu
+- Curieux
+- Bon en travail d'équipe
 
 <h2> N'hésitez à me suivre sur le lien suivant : </h2>
 
-[Linkedin] https://www.linkedin.com/in/copin-julien/
+Linkedin : https://www.linkedin.com/in/copin-julien/
 
 <!--
