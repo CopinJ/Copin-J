@@ -1,4 +1,4 @@
-<h1>Hello, Im' Julien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/copin-julien/">Data Analyst</a>
+<h1>Hello, I'm Julien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/copin-julien/">Data Analyst</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
