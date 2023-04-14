@@ -11,6 +11,7 @@
   - Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI
   
 - <b>[Projet Amazon SQLite](https://github.com/CopinJ/Projet-Amazon-SQLite)</b>
+  - Interaction on a Data Set of Amazon commands in SQLite
   - SQLite
 
 <h2>Hard skills :</h2>
