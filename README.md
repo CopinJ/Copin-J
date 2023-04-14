@@ -7,6 +7,7 @@
   - Data preprocessing, Data viz, Data analysis, ML, PowerBI
   
 - <b>[Projet Ranked LOL](https://github.com/CopinJ/Projet-Ranked-LOL) </b>
+  - Analysis of League of Legend's game statistics for season 13, patch 13.6. The goal is to determine how the choice of the champion impacts your victory rate.
   - Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI
   
 - <b>[Projet Amazon SQLite](https://github.com/CopinJ/Projet-Amazon-SQLite)</b>
