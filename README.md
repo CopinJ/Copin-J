@@ -1,4 +1,4 @@
-<h1>Bonjour, je suis Julien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/copin-julien/">Data Analyst</a>
+<h1>Hello, Im' Julien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/copin-julien/">Data Analyst</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -9,7 +9,7 @@
 - <b>Projet Amazon SQLite</b>
   - [SQLite](https://github.com/CopinJ/Projet-Amazon-SQLite)
 
-<h2>Compétences</h2>
+<h2>Hard skills :</h2>
 
 - Python
 - SQL
@@ -22,15 +22,15 @@
 - Web Scraping
 - Data Quality
 
-<h2> On me dit : </h2>
+<h2> Soft skills: </h2>
 
-- Force de proposition
-- Pondéré
-- Assidu
-- Curieux
-- Bon en travail d'équipe
+- Source of proposal
+- Level-headed
+- Diligent
+- Curious
+- Good team player
 
-<h2> N'hésitez à me suivre sur le lien suivant : </h2>
+<h2> Do not hesitate to follow me : </h2>
 
 Linkedin : https://www.linkedin.com/in/copin-julien/
 
