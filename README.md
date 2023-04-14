@@ -6,7 +6,7 @@
   - The goal of the project was to analyze the evolution of temperature anomalies in the world and to define their causes. We then decided to try to predict future temperatures
   - Data preprocessing, Data viz, Data analysis, ML, PowerBI
 - <b>[Projet Ranked LOL](https://github.com/CopinJ/Projet-Ranked-LOL) </b>
-  - Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI(https://github.com/CopinJ/Projet-Ranked-LOL)
+  - Data Viz, Web Scrapping, Data preprocessing, Data analysis, PowerBI
 - <b>[Projet Amazon SQLite](https://github.com/CopinJ/Projet-Amazon-SQLite)</b>
   - SQLite
 
