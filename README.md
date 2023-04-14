@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Projet Température Terrestre(https://github.com/CopinJ/Projet-Temperature-Terrestre)</b>
+- <b>[Projet Température Terrestre](https://github.com/CopinJ/Projet-Temperature-Terrestre)</b>
   - The goal of the project was to analyze the evolution of temperature anomalies in the world and to define their causes. We then decided to try to predict future temperatures
   - [Data preprocessing, Data viz, Data analysis, ML, PowerBI]
 - <b>Projet Ranked LOL </b>
