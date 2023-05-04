@@ -14,7 +14,7 @@
   - Interaction on a Data Set of Amazon commands in SQLite
   - SQLite
   
-  - <b>[Credit Risk](https://github.com/CopinJ/Credit-Risk-)</b>
+- <b>[Credit Risk](https://github.com/CopinJ/Credit-Risk-)</b>
   - The objective of this project is to analyze the risk factors when taking out a consumer credit
   - Python, Machine Learning
 
