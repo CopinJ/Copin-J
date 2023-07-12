@@ -18,6 +18,10 @@
   - The objective of this project is to analyze the risk factors when taking out a consumer credit
   - Python, Machine Learning
 
+- <b>[Gymnasiums](https://github.com/CopinJ/Gymnasium/tree/main)</b>
+  - The goal of the project was to to improve my SQL skills by analysing different gymnasiums activities
+  - SQL
+
 <h2>Hard skills :</h2>
 
 - Python
