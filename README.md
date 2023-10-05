@@ -22,7 +22,7 @@
   - The goal of the project was to to improve my SQL skills by analysing different gymnasiums activities
   - SQL
 
-- <b>[Gymnasiums part 2]([https://github.com/CopinJ/Gymnasium/tree/main](https://github.com/CopinJ/Gymnasiums-part-2/blob/main/README.md))</b>
+- <b>[Gymnasiums part 2](https://github.com/CopinJ/Gymnasiums-part-2/blob/main/README.md)</b>
   - The goal of the project was to to improve my SQL skills by analysing different gymnasiums activities
   - SQL
 
