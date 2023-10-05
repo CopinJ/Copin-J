@@ -26,7 +26,7 @@
   - The goal of the project was to to improve my SQL skills by analysing different gymnasiums activities
   - SQL
  
-- <b>[E-Commerce cosmetics](https://github.com/CopinJ/E-Commerce-Cosmetics/blob/main/README.md))</b>
+- <b>[E-Commerce cosmetics](https://github.com/CopinJ/E-Commerce-Cosmetics/blob/main/README.md)</b>
   - The goal of the project was to to improve my Python skills by analysing a cosmetic based E-commerce
   - Python
 
