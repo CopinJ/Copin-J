@@ -30,7 +30,7 @@
   - The goal of the project was to to improve my Python skills by analysing a cosmetic based E-commerce
   - Python
 
-https://github.com/CopinJ/Gymnasiums-part-2/blob/main/README.md
+
 <h2>Hard skills :</h2>
 
 - Python
