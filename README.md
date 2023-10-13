@@ -1,4 +1,4 @@
-<h1>Hello, I'm Julien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/copin-julien/">Data Analyst(https://github.com/CopinJ/Credit-Risk-)</a>
+<h1>Hello, I'm Julien <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/copin-julien/">Data Analyst</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -33,7 +33,7 @@
 
 <h2>Hard skills :</h2>
 
-- Python
+- [Python](https://verify.datascientest.com/226d8601-8a5d-4719-af26-91b33edb48e3.pdf)
 - SQL
 - Data visualisation
 - PowerBI
