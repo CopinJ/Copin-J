@@ -34,15 +34,17 @@
 <h2>Hard skills :</h2>
 
 - [Python](https://verify.datascientest.com/226d8601-8a5d-4719-af26-91b33edb48e3.pdf)
-- SQL
-- Data visualisation
-- PowerBI
+- [SQL](https://verify.datascientest.com/818b6dd7-5354-4fa1-8e93-5506a0ce6843.pdf)
+- [Data visualisation with Matplotlib](https://verify.datascientest.com/b2314bd9-0929-4bdf-bf6d-174a3d3bb8f2.pdf)
+- [Data visualisation with Seaborn](https://verify.datascientest.com/6140722c-286a-46fc-bc24-8362a1e1b70c.pdf)
+- [PowerBI](https://verify.datascientest.com/d3e24bb8-8f30-40b7-ae05-d659e8d98928.pdf)
 - Tableau
-- Data Analysis
-- Machine Learning
-- Text Mining
-- Web Scraping
-- Data Quality
+- [Data Analysis](https://verify.datascientest.com/b20c38aa-bca6-4a33-aab6-f5e1c69c7e46.pdf)
+- [Machine Learning with PySpark](https://verify.datascientest.com/0d4a0635-132b-4df8-8246-c317aff57a4b.pdf)
+- [Machine Learning with sklearn](https://verify.datascientest.com/230073b7-9cef-4783-8157-a24eff8b835d.pdf)
+- [Text Mining](https://verify.datascientest.com/060191c5-bf84-4c4c-aab3-b8cd3e9115b4.pdf)
+- [Web Scraping](https://verify.datascientest.com/94e3a565-94b1-4641-adcb-8d94031b9aaa.pdf)
+- [Data Quality](https://verify.datascientest.com/286ec6f0-89e3-4c73-888b-9ebb0be01651.pdf)
 
 <h2> Soft skills: </h2>
 
