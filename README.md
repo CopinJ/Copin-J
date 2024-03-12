@@ -30,7 +30,7 @@
   - The goal of the project was to to improve my Python skills by analysing a cosmetic based E-commerce
   - Python
 
-- <b>[Car Insurance] (https://github.com/CopinJ/Car-Insurance/blob/main/README.md) </b> 
+- <b>[Car Insurance](https://github.com/CopinJ/Car-Insurance/blob/main/README.md) </b> 
 	- Python
 
 
