@@ -30,8 +30,8 @@
   - The goal of the project was to to improve my Python skills by analysing a cosmetic based E-commerce
   - Python
 
-- <b>Car Insurance </b> 
-	- [Python](https://github.com/CopinJ/Car-Insurance/blob/main/README.md)
+- <b>[Car Insurance] (https://github.com/CopinJ/Car-Insurance/blob/main/README.md) </b> 
+	- Python
 
 
 <h2>Hard skills :</h2>
