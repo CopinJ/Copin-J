@@ -31,7 +31,7 @@
   - Python
 
 - <b>[Car Insurance](https://github.com/CopinJ/Car-Insurance/blob/main/README.md) </b>
-  -The aim of the project was to analyze the customer base of a car insurance company in order to determine the variables impacting the number of claims filed by an insured.
+  - The aim of the project was to analyze the customer base of a car insurance company in order to determine the variables impacting the number of claims filed by an insured.
   - Python
 
 
