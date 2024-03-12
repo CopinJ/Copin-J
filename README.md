@@ -30,8 +30,9 @@
   - The goal of the project was to to improve my Python skills by analysing a cosmetic based E-commerce
   - Python
 
-- <b>[Car Insurance](https://github.com/CopinJ/Car-Insurance/blob/main/README.md) </b> 
-	- Python
+- <b>[Car Insurance](https://github.com/CopinJ/Car-Insurance/blob/main/README.md) </b>
+  -The aim of the project was to analyze the customer base of a car insurance company in order to determine the variables impacting the number of claims filed by an insured.
+  - Python
 
 
 <h2>Hard skills :</h2>
